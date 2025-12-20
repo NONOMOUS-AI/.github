@@ -1,8 +1,3 @@
-Below is a **public-facing GitHub README** for **NONOMOUS AI**.
-Neutral, doctrine-first, OSS-friendly. Ready to paste.
-
----
-
 # NONOMOUS AI
 
 **Anti-Autonomous AI Orchestration for Software Engineering**
@@ -159,12 +154,3 @@ It exists to ensure that **AI never replaces engineering judgment**.
 
 **NONOMOUS AI**
 *Anti-Autonomous by Principle.*
-
----
-
-If you want next, I can:
-
-* Create `docs/DOCTRINE.md`
-* Define `Executor Interface v1`
-* Write `CONTRIBUTING.md`
-* Design Console UX flow
